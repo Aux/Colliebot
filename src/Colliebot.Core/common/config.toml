@@ -1,0 +1,26 @@
+﻿IsDebugEnabled = false
+
+[Discord]
+Token = "CHANGE_ME"
+
+[Twitch]
+ClientId = "CHANGE_ME"
+BotToken = "CHANGE_ME"
+ChannelToken = "CHANGE_ME"
+
+[Minecraft]
+ServerAddress = "localhost"
+ServerUsername = "root"
+ServerPassword = ""
+
+[Commands]
+StringPrefix = null
+AllowMentionPrefix = true
+
+[Scripting]
+IsEnabled = true
+Timeout = 30s
+
+[Logging]
+OutputPath = "./common/logs"
+MaxFileSizeKb = 500;
